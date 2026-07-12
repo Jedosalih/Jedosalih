@@ -1,5 +1,12 @@
-# 💫 About Me:
-🔭 I'm currently building focused web projects that help me refine my logic, structure, and workflow.<br>🤝 I’m open to collaborating on projects that combine clarity, purpose, and good execution.<br>🧩 I’m looking to exchange knowledge in software engineering fundamentals and practical AI usage.<br>🌱 I’m currently learning more about clean architecture, backend foundations, and modern development tools.<br>💬 Ask me about web development, productivity tools, or simplifying technical topics into clear steps.
+# 💫 About Me
+
+I'm a Software Engineering student who enjoys turning ideas into practical software.
+
+- 🚀 Building full-stack web applications with a focus on clean, maintainable code.
+- 🧠 Continuously learning backend development, software architecture, Docker, and development best practices.
+- 🤝 Interested in collaborating on meaningful open-source and real-world projects.
+- ⚙️ Passionate about AI, automation, developer tools, and scalable systems.
+- 📚 Always exploring new technologies and improving my problem-solving skills.
 
 
 ## 🌐 Socials:
